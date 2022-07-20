@@ -19,7 +19,7 @@
 .env.production.local
 
 #file
-AvaibleMeals.js
+src/components/Meals/AvaibleMeals.js
 
 npm-debug.log*
 yarn-debug.log*
